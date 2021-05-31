@@ -1,4 +1,4 @@
-# Generación de Reportes de Laboratorio JULIA+PANDOC
+# Generación de Reportes de Laboratorio PANDOC
 
 ## Descripción
 Este repositorio está constituido por una serie de documentos los cuales en su conjunto forman una plantilla de trabajo para la elaboración de reportes de laboratorio, que podrá ser usado en las diferentes clases ofrecidas por el departamento de física de la Universidad Nacional Autónoma de Honduras. 
