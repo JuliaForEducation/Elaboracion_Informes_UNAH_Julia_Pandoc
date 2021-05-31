@@ -1,0 +1,18 @@
+from: markdown+emoji
+to: pdf
+template: .default.latex
+standalone: true
+self-contained: false
+pdf-engine: pdflatex
+pdf-engine-opts:
+- "-shell-escape"
+wrap: auto
+columns: 78
+dpi: 100
+csl: .apa.csl
+file-scope: false
+citeproc: true
+cite-method: citeproc
+filters:
+- pandoc-plot
+- pandoc-crossref
